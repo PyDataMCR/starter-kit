@@ -2,13 +2,13 @@
 
 ### Stickermule
 
-If you want to print stickers from [stickermule.com](https://www.stickermule.com/) you need [pydata-text-stickermule.png](https://github.com/rladies/starter-kit/blob/master/stickers/psd_files/Exports/pydata-text-stickermule.png). 
+If you want to print stickers from [stickermule.com](https://www.stickermule.com/) you need [pydata-text-stickermule.png](https://github.com/PyDataMCR/starter-kit/blob/master/logo/logo/hex-logo-without-text.png). 
 
 
 
 **Step by step**
 
-1) Go to [stickermule.com](https://www.stickermule.com/) and upload the artwork ([pydata-text-stickermule.png](https://github.com/rladies/starter-kit/blob/master/stickers/psd_files/Exports/pydata-text-stickermule.png)):
+1) Go to [stickermule.com](https://www.stickermule.com/) and upload the artwork ([pydata-text-stickermule.png](https://github.com/PyDataMCR/starter-kit/blob/master/logo/logo/hex-logo-without-text.png)):
 
 ![01_stickermule](https://user-images.githubusercontent.com/1934546/32126507-ed434f42-bb25-11e7-9afb-fbc1e07f7dea.gif)
 
